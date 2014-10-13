@@ -11,7 +11,7 @@ module VATRates
     end
     
     def effective_from
-      @effective_from || Date.new(0)
+      @effective_from || nil
     end
     
     def to_hash
