@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    daemons (1.1.9)
+    eventmachine (1.0.3)
+    json (1.8.1)
+    rack (1.5.2)
+    thin (1.6.3)
+      daemons (~> 1.0, >= 1.0.9)
+      eventmachine (~> 1.0)
+      rack (~> 1.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  json
+  rack
+  thin
