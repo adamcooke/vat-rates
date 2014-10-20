@@ -7,6 +7,7 @@ country do
     effective_from 2011, 01, 04
     rate :standard, 20
     rate :reduced, 5
+    rate :test, 10
   end
 
 end
