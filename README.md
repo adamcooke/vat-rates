@@ -17,3 +17,5 @@ period do
   rate :standard, 20s
 end
 ```
+
+A small change.
