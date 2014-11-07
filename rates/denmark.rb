@@ -1,10 +1,10 @@
 country do
-  
+
   name 'Denmark'
-  code 'DE'
-  
+  code 'DK'
+
   period do
     rate :standard, 25
   end
-  
+
 end
