@@ -1,7 +1,7 @@
 country do
 
   name 'United Kingdom'
-  code 'UK'
+  code 'GB'
   
   period do
     effective_from 2011, 01, 04
