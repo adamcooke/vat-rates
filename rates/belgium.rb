@@ -2,6 +2,7 @@ country do
 
   name 'Belgium'
   code 'BE'
+  country_code 'BE'
 
   period do
     rate :reduced1, 6
