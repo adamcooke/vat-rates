@@ -1,7 +1,7 @@
 country do
   
   name 'Greece'
-  code 'EL'
+  code 'GR'
   
   period do
     rate :reduced1, 6.5
