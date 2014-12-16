@@ -1,6 +1,6 @@
 country do
   
-  name 'Luthuania'
+  name 'Lithuania'
   code 'LT'
   
   period do
