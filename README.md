@@ -8,7 +8,7 @@ The primary purpose for creating this is because of changes in the VAT rules whi
 
 The hosting for [jsonvat.com](http://jsonvat.com) is provided by [Viaduct](http://viaduct.io)
 
-[![Hosted by Viaduct](https://cdn.viaduct.io/hosted/medium-grey.png)](http://viaduct.io)
+[![Hosted by Viaduct](https://cdn.viaduct.io/hosted/medium-blue.png)](http://viaduct.io)
 
 ## Important Notes
 
