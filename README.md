@@ -6,6 +6,10 @@ This JSON payload is provided free of charge at http://jsonvat.com.
 
 The primary purpose for creating this is because of changes in the VAT rules which require some companies to invoice their customers in the customer's own VAT rate rather than theirs.
 
+The hosting for [jsonvat.com](http://jsonvat.com) is provided by [Viaduct](http://viaduct.io)
+
+[![Hosted by Viaduct](https://cdn.viaduct.io/hosted/medium-grey.png)](http://viaduct.io)
+
 ## Important Notes
 
 This information is provided on an as-is basis. The authors or contributors cannot be held responsible for its accuracy or completeness. You use the data provided by jsonvat.com entirely at your own risk.
