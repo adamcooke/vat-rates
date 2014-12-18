@@ -2,7 +2,7 @@ country do
 
   name 'Austria'
   code 'AT'
-  country_code 'AT"'
+  country_code 'AT'
 
   period do
     rate :reduced, 10
