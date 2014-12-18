@@ -1,7 +1,7 @@
 country do
 
   name 'United Kingdom'
-  code 'GB'
+  code 'UK'
   country_code 'GB'
 
   period do
