@@ -10,6 +10,8 @@ The hosting for [jsonvat.com](http://jsonvat.com) is provided by [Viaduct](http:
 
 [![Hosted by Viaduct](https://cdn.viaduct.io/hosted/medium-blue.png)](http://viaduct.io)
 
+If you're a Ruby developer, you may be interested in [my JSONVAT.com client library](/adamcooke/json-vat) which provides a Ruby interface to this backend.
+
 ## Important Notes
 
 This information is provided on an as-is basis. The authors or contributors cannot be held responsible for its accuracy or completeness. You use the data provided by jsonvat.com entirely at your own risk.
@@ -27,5 +29,3 @@ period do
   rate :standard, 20s
 end
 ```
-
-A small change.
