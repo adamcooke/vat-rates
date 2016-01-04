@@ -5,8 +5,8 @@ country do
   country_code 'RO'
 
   period do
-	  effective_from 2016, 1, 1
-	  rate :reduced1, 5
+    effective_from 2016, 1, 1
+    rate :reduced1, 5
     rate :reduced2, 9
     rate :standard, 20
   end
