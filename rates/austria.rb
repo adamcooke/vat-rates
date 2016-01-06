@@ -6,9 +6,9 @@ country do
 
   period do
     effective_from 2016, 1, 1
-    rate :reduced, 13
+    rate :reduced, 10
     rate :standard, 20
-    rate :parking, 12
+    rate :parking, 13
   end
 
   period do
