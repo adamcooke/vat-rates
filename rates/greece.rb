@@ -8,6 +8,12 @@ country do
   # http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf
   code 'EL'
 
+  period do
+    effective_from 2016, 1, 1
+    rate :reduced1, 6
+    rate :reduced2, 13.5
+    rate :standard, 23
+  end
 
   period do
     rate :reduced1, 6.5
