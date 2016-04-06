@@ -5,6 +5,14 @@ country do
   country_code 'LU'
 
   period do
+    effective_from 2016, 1, 1
+    rate :super_reduced, 3
+    rate :reduced1, 8
+    rate :standard, 17
+    rate :parking, 13
+  end
+
+  period do
     effective_from 2015, 1, 1
     rate :super_reduced, 3
     rate :reduced1, 8
