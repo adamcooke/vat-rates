@@ -5,7 +5,9 @@ country do
   country_code 'CZ'
 
   period do
-    rate :reduced, 15
+    effective_from 2017, 01, 01
+    rate :reduced1, 10
+    rate :reduced2, 15
     rate :standard, 21
   end
 
