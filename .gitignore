@@ -1,3 +1,4 @@
 *.gem
 pids
 procodile.log
+Procfile.local
