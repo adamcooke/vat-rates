@@ -1,22 +1,17 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    daemons (1.2.4)
-    eventmachine (1.2.3)
     json (2.1.0)
+    puma (3.8.2)
     rack (2.0.3)
-    thin (1.7.0)
-      daemons (~> 1.0, >= 1.0.9)
-      eventmachine (~> 1.0, >= 1.0.4)
-      rack (>= 1, < 3)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   json
+  puma
   rack
-  thin
 
 BUNDLED WITH
    1.15.1
