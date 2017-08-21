@@ -16,7 +16,7 @@ If you're a Ruby developer, you may be interested in [my JSONVAT.com client libr
 
 This information is provided on an as-is basis. The authors or contributors cannot be held responsible for its accuracy or completeness. You use the data provided by jsonvat.com entirely at your own risk.
 
-The API returns the standard & reduced VAT rates for EU countries. In some circumstances, you may need to charge other rates for certain types of product. For a full list, see this document.
+The API returns the standard & reduced VAT rates for EU countries. In some circumstances, you may need to charge other rates for certain types of product. For a full list, see [this document](http://ec.europa.eu/taxation_customs/sites/taxation/files/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf).
 
 ## Updating VAT Rates
 
