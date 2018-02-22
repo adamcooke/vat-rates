@@ -6,10 +6,6 @@ This JSON payload is provided free of charge at http://jsonvat.com.
 
 The primary purpose for creating this is because of changes in the VAT rules which require some companies to invoice their customers in the customer's own VAT rate rather than theirs.
 
-The hosting for [jsonvat.com](http://jsonvat.com) is provided by [Viaduct](http://viaduct.io)
-
-[![Hosted by Viaduct](https://cdn.viaduct.io/hosted/medium-blue.png)](http://viaduct.io)
-
 If you're a Ruby developer, you may be interested in [my JSONVAT.com client library](https://github.com/adamcooke/json-vat) which provides a Ruby interface to this backend.
 
 ## Important Notes
@@ -26,6 +22,6 @@ While I will do my best to keep VAT rates up to date, any pull requests with upd
 period do
   effective_from 2014, 1, 10
   rate :reduced, 10
-  rate :standard, 20s
+  rate :standard, 20
 end
 ```
