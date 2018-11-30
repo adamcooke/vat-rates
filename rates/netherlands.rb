@@ -5,6 +5,12 @@ country do
   country_code 'NL'
 
   period do
+    effective_from 2019, 1, 1
+    rate :reduced, 9
+    rate :standard, 21
+  end
+  
+  period do
     effective_from 2012, 10, 1
     rate :reduced, 6
     rate :standard, 21
