@@ -1,6 +1,0 @@
-*.gem
-pids
-procodile.log
-Procfile.local
-.bundle
-vendor/bundle
